@@ -11,7 +11,7 @@ function calculate() {
  // 입력칸의 문자열이 사칙연산 형식이 맞는지 확인
  var fm = formulaInput.value;
  var formulaRegex = /^\d+(.\d+)?[+\-*/]{1}\d+(.\d+)?$/;
- var fromulaValid = formulaRegex.test(fm);
+ var formulaValid = formulaRegex.test(fm);
 
  var resultText = "노";
  if (formulaValid) {
