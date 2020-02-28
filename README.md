@@ -1,4 +1,4 @@
-# 계산기 만들기
+# Make a calculator
 - HTML(Hyper Text Markup Language)
 : 화면들에 이것들을 놓여있어라! 하고 갖다놓는 수단
 
