@@ -13,7 +13,7 @@ function calculate() {
  var formulaRegex = /^\d+(.\d+)?[+\-*/]{1}\d+(.\d+)?$/;
  var formulaValid = formulaRegex.test(fm);
 
- var resultText = "노";
+ var resultText = "잘못된 계산입니다";
  if (formulaValid) {
    // 형식에 맞을 시 식을 계산하고 결과 문자열을 사용
    var answer;
