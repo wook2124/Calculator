@@ -19,7 +19,7 @@ This is a Calculator. Refer to feature below for functions.
 - Plus (+ 더하기)
 - Minus (- 빼기)
 - Times (* 곱하기)
-- Divide (/ 나누기)
+- Division (/ 나누기)
 
 ## Customization: How to run this project
 Very simple. Download the project folder and execute index.html file.  
