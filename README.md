@@ -1,4 +1,4 @@
-# Make a calculator
+# Calculator
 - HTML(Hyper Text Markup Language)  
 화면들에 이것들을 놓여있어라! 하고 갖다놓는 수단
 - CSS(Cascading Style Sheets)  
