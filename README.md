@@ -7,7 +7,7 @@ HTML을 올려놓은 이것들을 이렇게 보여라! 하고 꾸며주는 [문�
 브라우저에서 다양한 일을 수행하고 HTML로 올려놓은 요소들을 변형시키거나 직접 만들어내기까지 함
 
 ## Demo Link
-[Calculator](https://wook2124.github.io/Calculator/)
+- [Calculator](https://wook2124.github.io/Calculator/)
 
 ## Demo Video
 ![](demo.gif)
