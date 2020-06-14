@@ -17,7 +17,7 @@ HTML을 통해 올려놓은 것들에게 '이렇게 보여라!' 하고 꾸며주
 
 ## Project Description 
 
-This is a Calculator. Refer to the `Feature` below for the functions. 
+This is a Calculator. Refer to the `Feature` below for the functions.  
 계산을 할 수 있는 계산기입니다. 기능들은 아래 `Feature`를 참고해주세요.
 
 ### `Feature` 
