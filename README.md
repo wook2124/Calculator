@@ -29,8 +29,8 @@ This is a Calculator. Refer to the `Feature` below for the functions.
 
 ## Customization: How to run this project
 
-Very simple. Download the project folder and execute index.html file.  
-프로젝트를 로컬컴퓨터에 다운로드 하신 후 index.html 파일을 클릭하시면 실행 가능합니다.
+Very simple. Click [Calculator](https://wook2124.github.io/Calculator/) and Calculate!  
+[Calculator](https://wook2124.github.io/Calculator/)를 클릭하고 계산하시면 됩니다!
 
 ## What I used for this project 
 
