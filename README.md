@@ -36,4 +36,4 @@ Very simple. Click [Calculator](https://wook2124.github.io/Calculator/) and Calc
 
  - [X] HTML
  - [X] CSS
- - [X] Vanilla JS
+ - [X] JavaScript
